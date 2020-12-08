@@ -37,7 +37,7 @@ export default class Blank extends React.Component {
             <Image
               source={{
                 uri:
-                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/plant_7uXgnOV.jpg"
+                  "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/plant_png.png"
               }}
             />
           </TouchableOpacity>
