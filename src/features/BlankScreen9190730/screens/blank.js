@@ -115,6 +115,7 @@ const styles = StyleSheet.create({
   },
   Text_10730_206: {
     color: "rgba(255, 255, 255, 1)",
+    color: "rgba(0, 0, 0, 1)",
     fontSize: 32,
     fontWeight: "700",
     textAlign: "left",
@@ -145,6 +146,7 @@ const styles = StyleSheet.create({
   },
   Text_10730_208: {
     color: "rgba(255, 255, 255, 1)",
+    color: "rgba(0, 0, 0, 1)",
     fontSize: 18,
     fontWeight: "400",
     textAlign: "left",
@@ -163,7 +165,8 @@ const styles = StyleSheet.create({
     top: 0
   },
   Text_10730_209: {
-    color: "rgba(255, 255, 255, 1)",
+    /*color: "rgba(255, 255, 255, 1)",*/
+    color: "rgba(0, 0, 0, 1)",
     fontSize: 18,
     fontWeight: "400",
     textAlign: "left",
